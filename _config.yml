@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: My website
+title: Projects
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: A place where I show all my projects.
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -38,9 +38,9 @@ avatar: "/img/avatar-icon.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
+navbar-col: "#32a852"
 navbar-text-col: "#404040"
-navbar-children-col: "#F5F5F5"
+navbar-children-col: "#b8dbc2"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
