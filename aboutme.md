@@ -9,4 +9,4 @@ Hi, I am Nirmal Thapa. I am currently in Lambda School learning Data Science. Be
 ### My Motto
 
 No one is ever defeated, until defeat has been accepted as a reality.
-                                                             **Napolean Hill**
+                                                             -**Napolean Hill**
