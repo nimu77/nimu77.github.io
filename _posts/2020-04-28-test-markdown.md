@@ -26,7 +26,7 @@ Here's a useless table:
 
 How about a yummy crepe?
 
-![Plot](img/Annotation 2020-04-28 114611.jpg)
+![Plot](img/barplot.jpg)
 
 It can also be centered!
 
