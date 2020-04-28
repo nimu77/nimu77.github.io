@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
+title: Top 100 World's Highest-Paid Athletes of 2018
+subtitle: Highest earning sports people 
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [project, data science, lambda, DS15]
 comments: true
 ---
 
