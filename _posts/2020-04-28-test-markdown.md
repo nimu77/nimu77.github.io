@@ -26,7 +26,7 @@ Here's a useless table:
 
 How about a yummy crepe?
 
-![Plot](C:\Users\nirma\Documents\Nirmal_School_2020\picture)
+![Plot](img/Annotation 2020-04-28 114611.jpg)
 
 It can also be centered!
 
