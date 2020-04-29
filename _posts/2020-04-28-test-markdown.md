@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rumble in the Jungle - the race to be the highest-paid Athlete
-subtitle: *Who earned the most **U.S vs Rest of the World** in 2018?*
+subtitle: Who earned the most U.S vs Rest of the World in 2018?
 gh-repo: daattali/beautiful-jekyll
 tags: [project, data science, lambda, DS15]
 comments: true
