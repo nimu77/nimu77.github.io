@@ -1,16 +1,16 @@
 ---
 layout: post
-title: World's Highest-Paid Athletes of 2018
-subtitle: Does U.S dominate the list of top 100 highest paid athletes?
+title: Rumble in the Jungle - the race to be the highest-paid Athlete
+subtitle: Who earned the most U.S vs Rest of the World in 2018?
 gh-repo: daattali/beautiful-jekyll
 tags: [project, data science, lambda, DS15]
 comments: true
 ---
-![](/img/athletes.jpg){: width= 100, height=50:}
+![](/img/athletes.jpg){: .width= 500, height=50:}
 
-There used to be a time when Sports was just for leisure. There was no money attached, it was just for fun and some rivalry, and to brag about who is the champion of the town. Now, time has changed. Sports attract lots of people and there is a big reason behind it. We all know about the benefits of playing sports. It keeps us healthy, builds team spirit, builds leadership qualities, and makes people accountable for their roles in the team. Keeping all that aside, now there is an even better incentive for playing Sports. That is MONEY!!!  
+There used to be a time when Sports was just for leisure. There was no money attached, it was just for fun and some rivalry, and mostly for bragging rights. Now, time has changed. Sports attract lots of people aoround the world and there is a big reason behind it. We all know about the benefits of playing sports. It keeps us healthy, builds team spirit, builds leadership qualities, and makes people accountable for their roles in the team. Keeping all that aside, now there is an even better incentive for playing Sports. That is MONEY!!!  
 
-There are variety of sports around the world. What is the most popular sports that pays the most? Have you ever thought about it? Most of the kids in America dream about being the next Michael Jordan, Mohamad Ali, Mike Tyson, Pete Sampras, Peyton Manning, and list goes on and on. We certainly can say that American loves sports, now let see how well our players are compensated.  
+The race is on. There are variety of sports around the world. What is the most popular sports that pays the most? Have you ever thought about it? Most of the kids in America dream about being the next Michael Jordan, Mohamad Ali, Mike Tyson, Pete Sampras, Peyton Manning, and list goes on and on. We certainly can say that American loves sports, now let see how well our players are compensated.  
 ![Plot](/img/top25.jpg){: .center-block :}  
 Here, we can see lots of players from the U.S. What about in the top 100?  
 ![](/img/usa.jpg){: .center-block :}  
