@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Rumble in the Jungle - the race to be the highest-paid Athlete
-subtitle: Who earned the most U.S vs Rest of the World in 2018?
+title: Rumble in the Jungle - U.S vs the Rest of the World
+subtitle: Does sports matter, when it comes to income-level?
 gh-repo: daattali/beautiful-jekyll
 tags: [project, data science, lambda, DS15]
 comments: true
@@ -10,7 +10,7 @@ comments: true
 
 There used to be a time when Sports was just for leisure. There was no money attached, it was just for fun and some rivalry, and mostly for bragging rights. Now, time has changed. Sports attract lots of people aoround the world and there is a big reason behind it. We all know about the benefits of playing sports. It keeps us healthy, builds team spirit, builds leadership qualities, and makes people accountable for their roles in the team. Keeping all that aside, now there is an even better incentive for playing Sports. That is MONEY!!!  
 
-The race is **ON**. Let's see how did American athletes do in 2018. Have you ever thought about how much the athletes make? Most of the kids in America dream about being the next Michael Jordan, Muhammad Ali, Alex Rodriguez, Peyton Manning, and list goes on and on. There are variety of sports played around the world. In America, sports like Football, Basketball, Ice Hockey, Baseball, Boxing, and UFC are more popular. We certainly can say that American loves sports, now let see how well our players are compensated.  
+The race is **ON**. Let's see how did American athletes do in 2018. Have you ever thought about how much the athletes make? Most of the kids in America dream about being the next Michael Jordan, Muhammad Ali, Alex Rodriguez, Peyton Manning, and list goes on and on. There are variety of sports played around the world. In America, sports like Football, Basketball, Ice Hockey, Baseball, Boxing, and UFC are more popular. We certainly can say that American loves sports, now let see how well our players are compensated. For this project, I haven taken a dataset from [Kaggle](https://www.kaggle.com/pavanraj159/forbes-100-highest-paid-athletes-2018), it is about top 100 highest-paid athletes for 2018. 
 ![Plot](/img/top25.jpg){: .center-block :}  
 Here, we can see lots of players from the U.S. What about in the top 100?  
 ![](/img/usa.jpg){: .center-block :}  
@@ -18,4 +18,4 @@ It looks like U.S is the King of the Jungle. What makes U.S so lucrative? Why ar
 ![](/img/topsports.jpg){: .center-block :}  
 These are the sports that represent the list of top 100. In the context of America, looking at the figure above, why do you think American athletes dominated the list of top 100 highest-paid athletes of 2018? The top five sports that paid the most was Basketball, Football, Soccer, Boxing, and Baseball. Out of those five sports, four of them is a household name in America. As, I have mentioned before that kids in America dream about being the next Jordan or Ali. The reason why kids wants to become the next Jordan or Ali is because these sports will make them famous and rich.  
 
-And, the winner of the Rumble in the Jungle for 2018 is the U.S. The sports that are popular in U.S dominates the list in top 100 and the also the athletes in U.S dominates the list of top 100 highest-paid athletes of 2018. That being said, I am nowhere near saying that athletes in U.S makes more money. Overall, the picture might be different. This result is just top 100 highest-paid athletes.
+And, the winner of the Rumble in the Jungle for 2018 is the U.S. The sports that are popular in U.S dominates the list in top 100 and the also the athletes in U.S dominates the list of top 100 highest-paid athletes of 2018. That being said, I am nowhere near saying that athletes in U.S makes more money or these particular sports makes the more money. Overall, the picture might be different. This result is just for the top 100 highest-paid athletes.
