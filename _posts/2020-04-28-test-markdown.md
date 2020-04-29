@@ -13,7 +13,7 @@ There used to be time when Sports was just for leisure. There was no money attac
 We are all after Money, sports players are the same. Sports personalities these days are just not sports players, they are business minded people. They look for the best compensation and endorsement. Compensation, we can look in two ways as there are different formats of sports. Individual sports like tennis, boxing, golf, etc, receives compensation based on their placement/wins in the tournament, whereas in the team sports it is about contracts and how much the contracts pays solely depends on individual players worth and their demand in the market. 
 
 Sports has massive market around the world. People are fanatic about sports, and they spend a lot of money to buy tickets, jerseys, souveneirs, and many more items related to sports to support their favorite players or sports teams. In this huge market of sports, there are athletes who makes millions of money. How can certain players stand out amongst the rest and be the best and make millions of money? Here, we will evaluate amongst the top 100 highest-paid athletes and see what may be the factors that might aid in players making more money.  
-
+![Plot](/img/top25.jpg){: .center-block :}
 Endorsement also adds big chunk of money to players pocket these days. 
   ![Plot](/img/barplot.jpg){: .center-block :}
   
