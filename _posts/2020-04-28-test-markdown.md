@@ -15,15 +15,7 @@ The race is **ON**. Let's see how did American athletes do in 2018. Have you eve
 Here, we can see lots of players from the U.S. What about in the top 100?  
 ![](/img/usa.jpg){: .center-block :}  
 It looks like U.S is the King of the Jungle. What makes U.S so lucrative? Why are the athletes in U.S getting paid more other athletes around the world? I guess there might be various reasons for that, now lets look at the Sports that paid the most in top 100 list of highest-paid athletes.  
-![](/img/highestpayingsports.jpg){: .center-block :}  
-These are the sports that represent the list of top 100. In the context of America, looking at the figure above, why do you think American athletes dominated the list of top 100 highest-paid athletes of 2018? The top five sports that paid the most was Basketball, Football, Soccer, Boxing, and Baseball. Out of those five sports, four of them is a household name in America. As, I have mentioned before that kids in America dream about being the next Jordan or Ali. I think this is reason why, if you are in this sport you have a higher chance of being famous and making more Money.  
+![](/img/topsports.jpg){: .center-block :}  
+These are the sports that represent the list of top 100. In the context of America, looking at the figure above, why do you think American athletes dominated the list of top 100 highest-paid athletes of 2018? The top five sports that paid the most was Basketball, Football, Soccer, Boxing, and Baseball. Out of those five sports, four of them is a household name in America. As, I have mentioned before that kids in America dream about being the next Jordan or Ali. The reason why kids wants to become the next Jordan or Ali is because these sports will make them famous and rich.  
 
-We are all after Money, sports players are the same. Sports personalities these days are just not sports players, they are business-minded people. They look for the best compensation and endorsement. Compensation, we can look in two ways as there are different formats of sports. Individual sports like tennis, boxing, golf, etc, receive compensation based on their placement/wins in the tournament, whereas in the team sports it is about contracts and how much the contracts pay solely depends on individual players' worth and their demand in the market.  
-
-Sports have a massive market around the world. People are fanatic about sports, and they spend a lot of money to buy tickets, jerseys, souvenirs, and many more items related to sports to support their favorite players or sports teams. In this huge market of sports, there are athletes who make millions of money. How can certain players stand out amongst the rest and make more money than others? Let’s look at the top 25 highest-paid athletes of 2018.  
-
-Endorsement also adds big chunk of money to players pocket these days. 
-  ![Plot](/img/barplot.jpg){: .center-block :}
-  
-  Negotiation powers increase as the popularity of the players increase. 
-
+And, the winner of the Rumble in the Jungle for 2018 is the U.S. The sports that are popular in U.S dominates the list in top 100 and the also the athletes in U.S dominates the list of top 100 highest-paid athletes of 2018. That being said, I am nowhere near saying that athletes in U.S makes more money. Overall, the picture might be different. This result is just top 100 highest-paid athletes.
