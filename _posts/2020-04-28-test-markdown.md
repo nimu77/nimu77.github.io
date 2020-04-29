@@ -15,7 +15,7 @@ The race is **ON**. Let's see how did American athletes do in 2018. Have you eve
 Here, we can see lots of players from the U.S. What about in the top 100?  
 ![](/img/usa.jpg){: .center-block :}  
 It looks like the U.S is the King of the Jungle. What makes the U.S so lucrative? Why are the athletes in the U.S getting paid more than other athletes around the world? I guess there might be various reasons for that, now let’s look at the Sports that paid the most in the top 100 lists of highest-paid athletes.  
-![](/img/topsports.jpg){: .center-block :}  
+![](/img/highestpayingsports.jpg){: .center-block :}  
 These are the sports that represent the list of the top 100. In the context of America, looking at the figure above, why do you think American athletes dominated the list of top 100 highest-paid athletes of 2018? The top five sports that paid the most was Basketball, Football, Soccer, Boxing, and Baseball. Out of those five sports, four of them is a household name in America. As I have mentioned before that kids in America dream about being the next Jordan or Ali. The reason why kids want to become the next Jordan or Ali is that these sports will bring them fame and money.  
 
 So, the winner of the Rumble in the Jungle for 2018 is the U.S. The sports that are popular in the U.S dominates the list in the top 100, and also the athletes in the U.S dominates the list of the top 100 highest-paid athletes of 2018. That being said, I am nowhere near saying that athletes in the U.S make more money or these particular sports make more money. Overall, the picture might be different. This result is just for the top 100 highest-paid athletes.
