@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Highest Paid Athletes for 2018
-subtitle: Rumble in the Jungle - U.S vs the Rest of the World
+title: U.S vs the Rest of the World
+subtitle: Rumble in the Jungle - who spent the most and who earned the most?
 gh-repo: daattali/beautiful-jekyll
 tags: [project, data science, lambda, DS15]
 comments: true
