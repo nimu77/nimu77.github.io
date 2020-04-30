@@ -1,6 +1,6 @@
 ---
 layout: post
-title: U.S vs the Rest of the World
+title: U.S. vs the Rest of the World
 subtitle: Top 100 Highest-Paid of 2018
 gh-repo: daattali/beautiful-jekyll
 tags: [project, data science, lambda, DS15]
