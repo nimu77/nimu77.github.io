@@ -1,7 +1,7 @@
 ---
 layout: post
 title: U.S vs the Rest of the World
-subtitle: Rumble in the Jungle - who spent the most and who earned the most?
+subtitle: Rumble in the Jungle - and the winner is......
 gh-repo: daattali/beautiful-jekyll
 tags: [project, data science, lambda, DS15]
 comments: true
