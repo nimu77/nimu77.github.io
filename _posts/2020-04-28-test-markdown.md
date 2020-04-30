@@ -1,7 +1,7 @@
 ---
 layout: post
 title: U.S vs the Rest of the World
-subtitle: Rumble in the Jungle - and the winner is......
+subtitle: Top 100 Highest-Paid of 2018
 gh-repo: daattali/beautiful-jekyll
 tags: [project, data science, lambda, DS15]
 comments: true
