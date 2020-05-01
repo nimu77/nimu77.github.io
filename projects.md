@@ -11,4 +11,4 @@ we all have different talents. So, Sports has been a great platform for athletes
 they can do the same. But, nowadays sports has been even more attractive as it pays handsomely to athletes who are great in their particular 
 sports. This project is about showing who earned the most between athletes in the U.S. and the rest of the world in the list of top 100 
 highest-paid athletes of 2018 and also to show which sports spent the most on players.  
-![Highest Paying Sports](/img/newtop100.jpg)
+![Highest Paying Sports](/img/newtop100.jpg){: .center-block :}
