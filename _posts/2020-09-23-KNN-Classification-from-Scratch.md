@@ -2,7 +2,7 @@
 layout: post
 title: KNN Classification from Scratch
 subtitle: Implementation of prediction model using K Nearest Neighbor methodology.
-bigimg: /img/k_nn.jpg
+cover-img: ["/img/k_nn.jpg", "/img/knn_explanation.jpg"]
 tags: [knn, data-science, classification, machine-learning]
 ---
 
