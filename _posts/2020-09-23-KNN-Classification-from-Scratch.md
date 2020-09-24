@@ -36,7 +36,7 @@ The notebook for the demonstration is [here](https://github.com/nimu77/CS-Data-S
 ### Notification
 
 {: .box-note}
-**Note:** In the notebook, I have normalized the data using StandardScaler. This will normally distribute data around 0, with a standard deviation of 1. This is done, so that attribute with higher value will not dominate in terms of classification.
+**Note:** In the notebook, I have normalized the data using StandardScaler. This will normally distribute data around 0, with a standard deviation of 1.
 
 ```python
 from sklearn.preprocessing import StandardScaler
