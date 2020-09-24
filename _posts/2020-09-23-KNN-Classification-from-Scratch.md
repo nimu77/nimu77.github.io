@@ -25,9 +25,11 @@ predictions = knn_scratch.predict(X_test)
 predictions
 ```
 
-After you instatiate the class, feed in the training set to the **fit** method of class **Knn**, this is how it does its learning. When **predict** method is called for the test set, it does its learning by looking at similar points that are closest to the point of interest to determine the class of unlabeled set.
+After you instatiate the class, feed in the training set to the **fit** method of class **Knn**, this is how it does its learning. When **predict** method is called for the test set, it does its learning by looking at similar points that are closest to the point of interest to determine the class of unlabeled set. This is where most of the work is done.
 
 This class model is highly useful for classification task. It is a simple algorithm that classifies based on distance, and similarity occurences. The *k* is odd because it will produce a prediction of either *yes* or *no* for binary classification, that does not mean this cannot be used in multi-class classification. Generally, data scientist prefer odd number for *k*. 
+
+For demonstration purpose, I got the dataset from [Kaggle](https://www.kaggle.com/zeeshanmulla/heart-disease-dataset) for Heart Disease. It consists of 13 attributes and a binary class target. The goal is to determine whether the patient has heart disease, 1 means patient might have heart disease and 0 means their might be no sign of heart disease.
 
 You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
