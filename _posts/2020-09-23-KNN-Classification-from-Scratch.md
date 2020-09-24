@@ -31,6 +31,14 @@ This class model is highly useful for classification task. It is a simple algori
 
 For demonstration purpose, I got the dataset from [Kaggle](https://www.kaggle.com/zeeshanmulla/heart-disease-dataset) for Heart Disease. It consists of 13 attributes and a binary class target. The goal is to determine whether the patient has heart disease, 1 means patient might have heart disease and 0 means their might be no sign of heart disease.
 
+The notebook for the demonstration is [here](https://github.com/nimu77/CS-Data-Science-Build-Week-1/tree/nirmal){:target="_blank"}
+
+### Notification
+
+{: .box-note}
+**Note:** There, I have normalized the value to 0 to 1, so feature with higher values won't dominate and the results won't be biased.
+
+
 You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
 **Here is some bold text**
