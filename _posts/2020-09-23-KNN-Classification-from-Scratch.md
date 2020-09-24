@@ -49,7 +49,7 @@ var foo = function(x) {
 foo(3)
 ~~~
 
-And here is the same code with syntax highlighting:
+And here is the same code with syntax highlighting
 
 ```javascript
 var foo = function(x) {
