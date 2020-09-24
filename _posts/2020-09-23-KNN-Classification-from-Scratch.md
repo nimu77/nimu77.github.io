@@ -1,9 +1,9 @@
 ---
 layout: post
 title: KNN Classification from Scratch
-subtitle: Excerpt from Soulshaping by Jeff Brown
-bigimg: /img/path.jpg
-tags: [books, test]
+subtitle: Implementation of prediction model using K Nearest Neighbor methodology.
+bigimg: /img/knn.png
+tags: [knn, data-science, classification, machine-learning]
 ---
 
 Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
