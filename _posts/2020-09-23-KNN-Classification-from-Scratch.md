@@ -8,7 +8,34 @@ tags: [knn, data-science, classification, machine-learning]
 
 Prediction is a big part of Data Science. Today, I am going to cover a model class that imitates KNearestNeighbor Classification. This model is only for practice and for better understanding of how the algorithm works in scikit learn library for KNearestNeighbor Classification. The class **Knn** model consists of two methods **fit** and **predict**. 
 
-So, how does this class exactly works? To get started you first need to instantiate the class **Knn**. Class **Knn** takes in one argument *k* which is optional. The default value of *k* is 3. Here, 3 acts like a perimeter of circle, and in general it classifies on the basis of comparison of instances being queried with instances from the training set based on distance to closest k *(i.e 3 in this case, which you can change to any odd number)* number of points. 
+```python
+# knn classification class from scratch
+
+class Knn:
+    def __init__(self, k=3):
+        self.k = k
+
+    # fit the dataset with the values and the target
+    def fit(self, X, y):
+        self.X_train = X
+        self.y_train = y
+
+    # predict method to take in the new test file to output the target values
+    def predict(self, X):
+        predicted_labels = [self._dist_pred(x) for x in X]
+        return np.array(predicted_labels)
+
+    def _dist_pred(self, x):
+        # distance between x and x_values of the training set
+        distances = [euclidean_dist(x, x_train) for x_train in self.X_train]   # applying euclidean distance function to find the distance
+        # sort by distance and return the indices of the first k neighbors
+        k_idx = np.argsort(distances)[:self.k]
+        # extract the labels of the k nearest neighbor training samples
+        k_neighbors_labels = [self.y_train[i] for i in k_idx]
+        # return the most common class label
+        return most_frequent(k_neighbors_labels)        # applying most_frequent function to return the most frequent value in the array
+```
+So, how does this class exactly works? To get started you first need to instantiate the class **Knn**. Class **Knn** takes in one argument *k* which is optional. The default value of *k* is 3. Here, k acts like a perimeter of circle, and in general it classifies on the basis of comparison of instances being queried with instances from the training set based on distance to closest k *(i.e 3 in this case, which you can change to any odd number)* number of points. 
 
 ```python
 # fit the knn model built from scratch to the datasets
