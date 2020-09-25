@@ -27,13 +27,15 @@ class Knn:
 
     def _dist_pred(self, x):
         # distance between x and x_values of the training set
-        distances = [euclidean_dist(x, x_train) for x_train in self.X_train]   # applying euclidean distance function to find the distance
+        # applying euclidean distance function to find the distance
+        distances = [euclidean_dist(x, x_train) for x_train in self.X_train]   
         # sort by distance and return the indices of the first k neighbors
         k_idx = np.argsort(distances)[:self.k]
         # extract the labels of the k nearest neighbor training samples
         k_neighbors_labels = [self.y_train[i] for i in k_idx]
         # return the most common class label
-        return most_frequent(k_neighbors_labels)        # applying most_frequent function to return the most frequent value in the array
+        # applying most_frequent function to return the most frequent value in the array
+        return most_frequent(k_neighbors_labels)        
 ```
 So, how does this class exactly works? To get started you first need to instantiate the class **Knn**. Class **Knn** takes in one argument *k* which is optional. The default value of *k* is 3. Here, k acts like a perimeter of circle, and in general it classifies on the basis of comparison of instances being queried with instances from the training set based on distance to closest k *(i.e 3 in this case, which you can change to any odd number)* number of points. 
 
