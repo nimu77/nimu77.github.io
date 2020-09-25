@@ -34,7 +34,8 @@ class Knn:
         # extract the labels of the k nearest neighbor training samples
         k_neighbors_labels = [self.y_train[i] for i in k_idx]
         # return the most common class label
-        # applying most_frequent function to return the most frequent value in the array
+        # applying most_frequent function to return 
+        # the most frequent value in the array
         return most_frequent(k_neighbors_labels)        
 ```
 So, how does this class exactly works? To get started you first need to instantiate the class **Knn**. Class **Knn** takes in one argument *k* which is optional. The default value of *k* is 3. Here, k acts like a perimeter of circle, and in general it classifies on the basis of comparison of instances being queried with instances from the training set based on distance to closest k *(i.e 3 in this case, which you can change to any odd number)* number of points. 
