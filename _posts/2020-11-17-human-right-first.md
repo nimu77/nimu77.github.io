@@ -1,8 +1,8 @@
 ---
 layout: post
-title: To be
-subtitle: ... or not to be?
-tags: [books, shakespeare, test]
+title: Liberty, Equality, and Justice
+subtitle: The fight to maintain Democratic Values established by our forefather
+tags: [humanrights, classfication, peace]
 ---
 
 To be, or not to be--that is the question:
