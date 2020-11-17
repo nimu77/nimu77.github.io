@@ -2,6 +2,7 @@
 layout: post
 title: Liberty, Equality, and Justice
 subtitle: The fight to maintain Democratic Values established by our forefather
+bigimg: /img/kn_n.jpg
 tags: [humanrights, classfication, peace]
 ---
 
