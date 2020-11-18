@@ -10,6 +10,12 @@ We all believe in liberty, equality, and justice; those are the core values of d
 
 I was so grateful to be part of the team that was assisting Human Rights First (HRF). I worked in finding data for police use of force, where human rights were being violated. Data can be so powerful to relay messages and show the world how our rights are being taken away from us. Our forefathers fought a great battle through experience and thought of many generations to draw up a constitution for the United States of America. If people in power fail to support the constitution, that’s when HRF steps in. After I was able to get some data related to police use of force, I had to make data relevant to the user story that we as a team was trying to solve. We wanted to solve a problem where users can easily view incidents where human rights were violated through an interactive map where they can select location, date, and types of use of force.
 
+After finalizing the user stories, we as a team broke down user stories into shippable tasks. Since this was a cross-functional product, user stories were broken down into tasks that can be handled by data scientists, frontend, and backend. Here is the trello card for one of the user story.
+
+![trello](/img/trello.jpg){: .center-block :}
+
+For Data Scientists, we broke down tasks into parts where we had to scrape relevant data, explore data, do data engineering, finalize data to showcase the timeline of use of force, create endpoints to transfer data, build a Postgresql database on AWS RDS, and connect to it to have a highly stable database that safely stores data.
+
 You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
 **Here is some bold text**
