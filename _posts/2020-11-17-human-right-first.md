@@ -18,8 +18,6 @@ For Data Scientists, we broke down tasks into parts where we had to scrape relev
 
 ### Technical challenges and difficulties
 
-This was an exciting project for me and for my teammates. To get to work with Human Rights First and help them on their journey of educating people of their rights and showcasing incidents that involved police use of force to show records to support how people have been mistreated and abused was a challenge, but that challenge brought the best out of everyone. I specifically worked on getting a route to communicate the timeline of police use of force within America.
-
 ![trello](/img/postgre.jpg){: style="float:left"}
 This was an exciting project for me and for my teammates. To get to work with Human Rights First and help them on their journey of educating people of their rights and showcasing incidents that involved police use of force to show records to support how people have been mistreated and abused was a challenge, but that challenge brought the best out of everyone. I specifically worked on getting a route to communicate the timeline of police use of force within America.
 
