@@ -15,3 +15,7 @@ After finalizing the user stories, we as a team broke down user stories into shi
 ![trello](/img/trello.jpg){: .center-block :}
 
 For Data Scientists, we broke down tasks into parts where we had to scrape relevant data, explore data, do data engineering, finalize data to showcase the timeline of use of force, create endpoints to transfer data, build a Postgresql database on AWS RDS, and connect to it to have a highly stable database that safely stores data.
+
+### Technical challenges and difficulties
+
+This was an exciting project for me and for my teammates. To get to work with Human Rights First and help them on their journey of educating people of their rights and showcasing incidents that involved police use of force to show records to support how people have been mistreated and abused was a challenge, but that challenge brought the best out of everyone. I specifically worked on getting a route to communicate the timeline of police use of force within America.
