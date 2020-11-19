@@ -22,3 +22,9 @@ For Data Scientists, we broke down tasks into parts where we had to scrape relev
 This was an exciting project for me and for my teammates. To get to work with Human Rights First and help them on their journey of educating people of their rights and showcasing incidents that involved police use of force to show records to support how people have been mistreated and abused was a challenge, but that challenge brought the best out of everyone. I specifically worked on getting a route to communicate the timeline of police use of force within America.
 
 For me personally, I was having technical difficulty connecting to the PostgreSQL in AWS RDS. I was wary of how I can connect to the database from                              various platforms like command prompt, and VS Code tool for PostgreSQL, which I tried but I was having trouble populating it with tables and data                                that I have acquired. Finally, after many trials and errors and searching on the internet for similar problems, I was able to use a management tool                              for PostgreSQL called pdAdmin.
+
+###
+
+The product is still under development. These four weeks of my life was very challenging, but I was able to accomplish a lot as well. As a Data Scientist for this project, I worked on getting relevant data, cleaning and feature engineering data, creating a route on FastAPI which was deployed on Elastic Beanstalk, creating a database on AWS RDS, and connecting it through pgAdmin to insert tables and data relevant to the project.
+
+![trello](/img/get_timeline.gif){: .center-block :}
